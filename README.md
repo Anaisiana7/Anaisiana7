@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Link](https://img.shields.io/badge/telegram-anaissiana7-0095B6?style=for-the-badge&)](https://t.me/anaiskeita) 
+  [![Link](https://img.shields.io/badge/telegram-anaissiana7-0095B6?style=for-the-badge&)](@anaissiana7) 
   [![Link](https://img.shields.io/badge/instagram-anais.keita-F19CBB?style=for-the-badge&)](https://www.instagram.com/anais.keita?igsh=MW84aXhxcDZ3NGFsbQ==)
   [![Link](https://img.shields.io/badge/email-anais.keita@mac.com-0095B6?style=for-the-badge)](anais.keita@mac.com)
   
